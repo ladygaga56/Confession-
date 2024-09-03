@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confession Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="question">
+        <h1>HI CRUSH</h1>
+        <p>Do you like me?</p>
+    </div>
+    
+    <button id="yesBtn">Yes</button>
+    <button id="noBtn">No</button>
+
+    <div class="images">
+        <img src="kermit.png" alt="Kermit with hearts" width="200" id="img1">
+        <p>Yieee, chat mo na ako usap na us</p>
+        <img src="song.png" alt="Song" width="200">
+    </div>
+
+    <div class="love">
+        <p>I love you my honeybunch sugar pumpy-umpy-umpkin mwamwa</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
